@@ -18,12 +18,12 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![TODO](./public/images/screenshot.png)
+![](./public/images/screenshot.png)
 
 ### Links
 
 - Solution URL: [GitHub](https://github.com/navalBhagat/profile-card-component-fe-mentor)
-- Live Site URL: [Vercel - TODO](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://profile-card-component-fe-mentor-two.vercel.app/)
 
 ## Author
 
